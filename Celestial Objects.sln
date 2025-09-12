@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celestial Objects", "Celestial Objects\Celestial Objects.csproj", "{4643E914-B0CB-471F-AC01-8E0893B447DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4643E914-B0CB-471F-AC01-8E0893B447DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4643E914-B0CB-471F-AC01-8E0893B447DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4643E914-B0CB-471F-AC01-8E0893B447DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4643E914-B0CB-471F-AC01-8E0893B447DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA7BB44F-EEE1-44DE-BB90-8ECC26457E76}
+	EndGlobalSection
+EndGlobal

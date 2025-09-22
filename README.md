@@ -24,4 +24,4 @@ These are the only things you need to edit so your new type can work properly.
 
 I tried to make all the methods Generic<T>, for better scalability. I also made sure that all inputs must be correct, so you can't assign a negative nor 0 mass, radius, age, and the name also must be unique, and has atleast 1 character. You can find the logic for the name in line 198 and below, and for the other numerics in a method called CheckFormat, in line 299.
 
-Enjoy, Space Citizen!
+Enjoy, Space Citizen! 🛸

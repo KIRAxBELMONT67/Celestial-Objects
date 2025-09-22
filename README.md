@@ -1,6 +1,6 @@
 Welcome, Space Citizen! 🪐
 
-I made this program to practice a course I am doing on C#.
+I made this program to practice a course I am taking on C#.
 
 The program is about adding, or merging celestial objects. When You add, you will have to enter the name, age, mass, radius, and with these properties, the program will also calculate the actual surface gravity, for example, if you put the properties of earth, you will get g = 9.8m/s^2
 The first interface has 3 choices, adding, merging, or deleting all items.

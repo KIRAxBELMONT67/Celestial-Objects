@@ -1,4 +1,4 @@
-Welcome, Space Citizen!
+Welcome, Space Citizen! 🪐
 
 I made this program to practice a course I am doing on C#.
 

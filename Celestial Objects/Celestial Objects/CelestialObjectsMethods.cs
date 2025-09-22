@@ -52,7 +52,7 @@ namespace Celestial_Objects.Celestial_Objects
         //Same but stars
         private readonly List<string> _starsTypes = new List<string>()
         {
-            "Neutron star",
+            "Neutron Star",
             "Red Dwarf",
             "White Dwarf",
             "Protostar",
@@ -84,7 +84,7 @@ namespace Celestial_Objects.Celestial_Objects
                 double innerChoice = 0;
 
               
-                Console.WriteLine("\nPress 0 To See All Celesial Objects Saved, Or Anything Else To Do More Stuff");
+                Console.WriteLine("\nPress 0 To See All Celestial Objects Saved, Or Anything Else To Do More Stuff");
                 Console.WriteLine("1. Add Celestial Object");
                 Console.WriteLine("2. Merge Celestial Object");
                 Console.WriteLine("3. Delete All Celestial Objects For A Type");
@@ -249,7 +249,7 @@ namespace Celestial_Objects.Celestial_Objects
             var newCelestialObject = createObject(nameCelestialObject, celestialType, age, mass, radius, gravity);
             listOfTheObject.Add(newCelestialObject);
             DataSavingManager.Save<T>(listOfTheObject);
-            Console.WriteLine($"\nThe {typeName} Has Been Added Succesfully!");
+            Console.WriteLine($"\nThe {typeName} Has Been Added Successfully!");
             Console.WriteLine($"\nThe New {typeName} Is: \n\n{newCelestialObject}");
             Console.WriteLine("\nPress Any Key To Continue");
             Console.ReadKey();
